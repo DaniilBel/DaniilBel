@@ -1,9 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Daniil</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniilbel" alt="daniilbel" /></a> </p>
-
 - 📫 How to reach me **danya.belyaev@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
