@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Daniil</h1>
 - 📫 How to reach me **danya.belyaev@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
